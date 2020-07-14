@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+  <title>for teacher leo</title>
+  <meta charset="utf-8">
+  </head>
+<body>
+  <style>
+  body {background-color: #000000;}
+
+  h1 {
+    text-align: center;
+    font-size: 60px;
+    font-family: "Times New Roman";
+    color: white;
+
+ .center {
+  display: block;
+  margin-left: 30px;
+
+  margin-top: 30px;
+  width: 10%;
+
+}
+
+  </style>
+
+    <img src="logo (1).png" alt="Paris" class="center">
+    <h1>TO TEACHER LEO </h1>
+    <h1>yay! you saw my webpage! <p> I really wished my teacher could see this.
+      <p> if any one else is seeing this web page. send this to <p>
+        teacher Leo and plus let him know how to work this. in the <p>
+          messege I sent you.<p>
+            <style>
+            h2 {
+              color: white;
+              font-size: 30px;
+              font-family: arial;
+              text-align: center;
+            }
+            </style>
+            <h2> so teacher if I transalate the other messege I sent you:<p>
+              I think you are kind of free-minded, you know some teachers<p>
+                are really in the box, just sticking into the topic but you<p>
+                  are diffrent you are just in the border of sidetracked and<p>
+                free witch I love you all ways make this fun but somehow managing<p>
+                  to not cross the line witch is what I think is good about you<p>
+              plus I like when we talk about things that are still the topic<p>
+              you always make things fun! you know every intrest in everything<p>
+              with your style of teaching I think you could be a university <p>
+              teacher, so I will see you next class! bye! :)<p>
+              P.s : oh I found a video that you might like~! I know it's long
+              but it's a timelaps of the future, I think you will find this<p>
+                intresting!
+ </h2>
+              <iframe width="1280" height="720" src="https://www.youtube.com/embed/uD4izuDMUQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+</body>
+</html>
